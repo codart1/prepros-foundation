@@ -1,1 +1,0 @@
-console.log("from 2.lib2");
