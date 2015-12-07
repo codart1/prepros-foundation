@@ -1,2 +1,2 @@
-"use strict";alert("foo");
+"use strict";function _interopRequireWildcard(e){if(e&&e.__esModule)return e;var r={};if(null!=e)for(var t in e)Object.prototype.hasOwnProperty.call(e,t)&&(r[t]=e[t]);return r["default"]=e,r}var _adminModulesModule1=require("admin-modules/module1"),math=_interopRequireWildcard(_adminModulesModule1);alert("2π = "+math.sum(math.pi,math.pi));
 //# sourceMappingURL=admin.dist.js.map
