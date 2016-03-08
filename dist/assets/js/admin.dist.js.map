@@ -1,1 +1,1 @@
-{"version":3,"sources":["../../../src/js/admin.js"],"names":["math","_interopRequireWildcard","_adminModulesModule1","alert","sum","pi"],"mappings":"gOAAsB,yBAAVA,KAAIC,wBAAAC,qBAChBC,OAAM,QAAUH,KAAKI,IAAIJ,KAAKK,GAAIL,KAAKK"}
+{"version":3,"sources":["../../../src/js/modules/module1.js"],"names":["test","alert"],"mappings":"YAAA,SAASA,QACRC,MAAM"}
